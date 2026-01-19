@@ -54,4 +54,4 @@ and improving my problem-solving skills through hands-on practice.
 - Instagram: https://www.instagram.com/_ann__mariya_._?igsh=MTk4MzdtenZmbGh0OQ==
 
 
-![Snake animation](https://github.com/annmariyasaju/annmariyasaju/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/annmariyasaju/annmariyasaju/output/github-contribution-grid-snake.svg)
