@@ -1,9 +1,12 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,10 +14,9 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: annmariyasaju
+          github_user_name: annmariyasaju 
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
