@@ -72,4 +72,3 @@ and improving my problem-solving skills through hands-on practice.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmariyasaju&layout=compact&theme=tokyonight"
   />
 </p>
-![Snake animation](https://raw.githubusercontent.com/ancyywilson/ancyywilson/output/github-contribution-grid-snake.svg)
