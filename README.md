@@ -60,7 +60,7 @@ and improving my problem-solving skills through hands-on practice.
     src="https://github-readme-stats.vercel.app/api?username=annmariyasaju&show_icons=true&theme=tokyonight"
   />
 </p>
-
+![Snake animation](https://raw.githubusercontent.com/annmariyasaju/annmariyasaju/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=annmariyasaju&theme=tokyonight"
