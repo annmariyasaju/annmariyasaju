@@ -50,6 +50,13 @@
 ___
 ## 📊 GitHub Status
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annmariyasaju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmariyasaju&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night)
 
 <p align="center">
