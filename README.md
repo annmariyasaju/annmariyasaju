@@ -48,15 +48,6 @@
 - LinkedIn:  https://www.linkedin.com/in/annmariya-saju-4ab315353
 
 ___
-## 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annmariyasaju&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night&hide_border=true" />
-</p>
 
 ##  My Contributions
 
