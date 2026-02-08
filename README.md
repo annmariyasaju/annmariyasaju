@@ -52,10 +52,18 @@ ___
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmariyasaju&layout=compact&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annmariyasaju&theme=tokyonight" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annmariyasaju&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annmariyasaju&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=annmariyasaju&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annmariyasaju&theme=tokyonight&utcOffset=5.5" height="180"/>
+</p>
 
 <p align="center">
   <picture>
