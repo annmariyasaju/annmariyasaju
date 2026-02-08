@@ -48,7 +48,7 @@
 - LinkedIn:  https://www.linkedin.com/in/annmariya-saju-4ab315353
 
 ___
-https://github-readme-streak-stats.herokuapp.com/?user=annmariyasaju&theme=tokyonight&hide_border=true
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night)
 
 ##  My Contributions
 
