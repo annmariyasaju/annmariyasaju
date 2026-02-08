@@ -52,7 +52,7 @@ ___
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmariyasaju" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmariyasaju&layout=compact&cache_seconds=1800" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night)
