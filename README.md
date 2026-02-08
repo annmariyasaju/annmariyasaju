@@ -60,10 +60,6 @@ ___
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annmariyasaju&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=annmariyasaju&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annmariyasaju&theme=tokyonight&utcOffset=5.5" height="180"/>
-</p>
 
 <p align="center">
   <picture>
