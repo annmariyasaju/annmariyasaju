@@ -44,10 +44,29 @@
 ---
 
 
-## 📫 Connect With Me
-
-- GitHub:https://github.com/annmariyasaju
+## 📫 Connect With me 
 - LinkedIn:  https://www.linkedin.com/in/annmariya-saju-4ab315353
-- Instagram: https://www.instagram.com/_ann__mariya_._?igsh=MTk4MzdtenZmbGh0OQ==
 
-![Snake animation](https://raw.githubusercontent.com/annmariyasaju/annmariyasaju/output/github-contribution-grid-snake.svg)
+___
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annmariyasaju&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annmariyasaju&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmariyasaju&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+___
+
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annmariyasaju/annmariyasaju/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annmariyasaju/annmariyasaju/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/annmariyasaju/annmariyasaju/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
