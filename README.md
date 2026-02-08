@@ -1,11 +1,8 @@
-a# 👋 Hi, I'm Annmariya Saju
+## 👋 Hi, I'm Annmariya Saju!
 
-🎓 B.Tech Student | 💻 Aspiring Developer | 🌱 Continuous Learner  
-
-I enjoy learning new technologies, building simple yet creative projects,  
-and improving my problem-solving skills through hands-on practice.
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Learning+DSA+%26+Web+Development;Building+Projects+Everyday;Open+Source+Explorer;Welcome+to+my+GitHub+Profile!" />
+</p>
 
 
 ## 🌟 About Me
