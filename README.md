@@ -45,7 +45,12 @@
 
 
 ## 📫 Connect With me 
-- LinkedIn:  https://www.linkedin.com/in/annmariya-saju-4ab315353
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/annmariya-saju-4ab315353/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+</p>
 
 ___
 
