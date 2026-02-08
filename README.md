@@ -5,12 +5,11 @@
 </p>
 
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech student under **APJ Abdul Kalam Technological University (KTU)**
-- 💡 Interested in **web development, software projects, and creative ideas**
-- 🚀 Enjoy experimenting with unique concepts and learning by building
-- 📚 Currently focusing on strengthening coding fundamentals
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=🎓+B.Tech+student+under+APJ+Abdul+Kalam+Technological+University+(KTU);💡+Interested+in+Web+Development,+Software+Projects,+and+Creative+Ideas;🚀+I+enjoy+experimenting+with+unique+concepts+and+learning+by+building;📚+Currently+focusing+on+strengthening+coding+fundamentals" />
+</p>
   
 ---
 
