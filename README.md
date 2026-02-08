@@ -55,11 +55,8 @@ ___
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annmariyasaju&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annmariyasaju&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annmariyasaju&theme=tokyonight" height="180"/>
-</p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night)
+ 
 
 <p align="center">
   <picture>
