@@ -48,9 +48,14 @@
 - LinkedIn:  https://www.linkedin.com/in/annmariya-saju-4ab315353
 
 ___
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night)
+## 📊 GitHub Status
 
-##  My Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annmariyasaju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annmariyasaju&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annmariyasaju&theme=tokyo-night)
 
 <p align="center">
   <picture>
