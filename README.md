@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Annmariya Saju!
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,35:414345,70:485563,100:29323c&height=220&section=header&text=Annmariya%20Saju&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Explorer&descSize=17&descAlignY=60&descColor=e5e7eb&animation=fadeIn" width="100%" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Learning+DSA+%26+Web+Development;Building+Projects+Everyday;Open+Source+Explorer;Welcome+to+my+GitHub+Profile!" />
@@ -69,3 +71,7 @@ ___
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/annmariyasaju/annmariyasaju/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29323c,50:485563,100:232526&height=80&section=footer" width="100%" />
