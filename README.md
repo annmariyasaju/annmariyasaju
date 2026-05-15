@@ -70,6 +70,3 @@ ___
   </picture>
 </p>
 
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29323c,50:485563,100:232526&height=80&section=footer" width="100%" />
