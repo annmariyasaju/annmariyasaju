@@ -1,6 +1,4 @@
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,35:414345,70:485563,100:29323c&height=220&section=header&text=Annmariya%20Saju&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Explorer&descSize=17&descAlignY=60&descColor=e5e7eb&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=wave&height=320&color=0:1D4350,40:A43931,100:1D4350&text=Annmariya%20Saju&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Computer%20Science%20×%20AI&descAlignY=64&descSize=20&descColor=fff5f5&stroke=ffffff&strokeWidth=1" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Learning+DSA+%26+Web+Development;Building+Projects+Everyday;Open+Source+Explorer;Welcome+to+my+GitHub+Profile!" />
